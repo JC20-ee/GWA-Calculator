@@ -1,0 +1,12 @@
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\GWA Calculator\bin\Debug\GWA Calculator.exe.config
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\GWA Calculator\bin\Debug\GWA Calculator.exe
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\GWA Calculator\bin\Debug\GWA Calculator.pdb
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\GWA Calculator\bin\Debug\GWA Calculator.xml
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\GWA Calculator\obj\Debug\GWA Calculator.vbproj.AssemblyReference.cache
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\GWA Calculator\obj\Debug\GWA_Calculator.Form1.resources
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\GWA Calculator\obj\Debug\GWA_Calculator.Resources.resources
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\GWA Calculator\obj\Debug\GWA Calculator.vbproj.GenerateResource.cache
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\GWA Calculator\obj\Debug\GWA Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\GWA Calculator\obj\Debug\GWA Calculator.exe
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\GWA Calculator\obj\Debug\GWA Calculator.xml
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\GWA Calculator\obj\Debug\GWA Calculator.pdb
